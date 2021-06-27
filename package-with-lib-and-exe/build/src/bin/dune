@@ -1,0 +1,5 @@
+(executable
+ (modes byte exe)
+ (name dummyc)
+ (public_name dummyc)
+ (libraries unix dummy))
